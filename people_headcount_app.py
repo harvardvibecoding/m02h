@@ -1,3 +1,11 @@
+### Headcount Simulator App
+### m02h/people_headcount_app.py
+###
+### Author: Sharon + GitHub Copilot
+### Date: Jan 20, 2026
+###
+### Headcount app with impact score calculation via multiple factors.
+
 import streamlit as st
 import pandas as pd
 import json
